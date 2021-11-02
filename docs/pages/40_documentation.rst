@@ -39,3 +39,7 @@ Makefile
 Use the makefile (Linux) or make.bat (Windows) to start documentation generation. Just start it.
 
 You can now open docs/_build/html/index.html to verify everything is in order.
+
+Uploading to readthedocs
+------------------------
+Make sure you pushed your changes to the repository. Log in to readthedocs.org and go to 'my projects'. Hit the refresh icon if the right repository is not in the list. Select the repository and follow the instrcutions.
