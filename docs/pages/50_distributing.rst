@@ -29,6 +29,6 @@ Everytime you upload a new version to PyPi you have to increase the version numb
 	pip install package-name
 
 Further reading
-===============
+---------------
 
 A more in-depth tutorial can be found on the `official documentation <https://packaging.python.org/tutorials/packaging-projects/>`_
