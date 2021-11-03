@@ -7,6 +7,7 @@ Welcome to RE-Lab_template's documentation!
    :glob:
    
    pages/*
+   src/modules
 
 Indices and tables
 ==================
