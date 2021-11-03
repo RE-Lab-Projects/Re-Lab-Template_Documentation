@@ -1,0 +1,10 @@
+Testing
+=======
+Tests should be in the /tests folder. The filenames should start wit "test_" so pytest can identify them.
+The testfiles have to import "from src import filename".
+
+The functions in the file should also start with "test_".
+
+Take a look at the `example <https://github.com/RE-Lab-Projects/Re-Lab-Template_Documentation/tree/main/tests>`_ in our github repository.
+
+To run the tests start pytest from the project root folder.

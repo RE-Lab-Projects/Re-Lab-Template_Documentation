@@ -31,6 +31,8 @@ AutoDoc
 AutoDoc uses the DocStrings from the py-files to generate class and function documentation.
 Use propper DocStrings and the documentation is done automatically.
 
+A DocString should at least have a description of what it does and what it returns. Take a look at our `example <https://github.com/RE-Lab-Projects/Re-Lab-Template_Documentation/tree/main/tests>`_ .
+
 More information about `DocString <https://www.python.org/dev/peps/pep-0257/>`_
 
 Makefile
