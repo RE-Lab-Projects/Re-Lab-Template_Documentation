@@ -22,6 +22,7 @@ Everytime you upload a new version to PyPi you have to increase the version numb
 3. Upload (you still need to be in the project root folder)
 	| (Linux)		python3 -m twine upload dist/*
 	| (Windows)	py -m twine upload dist/*
+
 	Enter the credentials. There is a RE-Lab account for PyPI.
 
 4. Done. 
