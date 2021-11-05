@@ -1,0 +1,13 @@
+name: Python Package using Conda
+
+on: [push]
+
+jobs:
+  build-linux:
+    runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 5
+
+    steps:
+    - name: Python Pytest Github Action
+    - uses: fylein/python-pytest-github-action@v2
